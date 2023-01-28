@@ -1,6 +1,6 @@
 
 
 resource "null_resource" "yoshhdiig" {
-  count = 2
+  count = 3
 }
 
